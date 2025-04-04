@@ -32,12 +32,6 @@ Por exemplo, se tivermos:
 Faremos 23 - 7 = 16, logo, o programa imprimirá uma contagem de 1 até 16.
 
 Se a diferenças entre os parâmetros for menor ou igual a zero, 
-então o programa lançará a exceção, que pode ser mostrada como:
+então o programa lançará a exceção, que será mostrada na tela como:
 
-
-<span style="color:#C05555">O segundo parâmetro deve ser menor que o primeiro</span>  
-<span style="color:#C05555">Contador.contar(</span><span style="color:#0F88FF">Contador.java:23</span><span style="color:#C05555">)</span>    
-<span style="color:#C05555">Contador.main(</span><span style="color:#0F88EE">Contador.java:13</span><span style="color:#C05555">)</span>
-
-
-
+``O segundo parâmetro deve ser menor que o primeiro``
